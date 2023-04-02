@@ -21,28 +21,28 @@ class ProductSeeder extends Seeder
                 'price' => '$150',
                 'description' => 'Smart Phone',
                 'category' => 'Phone',
-                'gallery' => 'https://cdn1.smartprix.com/rx-iGNlyOFEo-w1200-h1200/GNlyOFEo.jpg'
+                'gallery' => 'https://assetscdn1.paytm.com/images/catalog/product/M/MO/MOBOPPO-A52-6-GFUTU6297453D3D253C/1592019058170_0..png'
             ],
             [
                 'name' => 'Mobile',
                 'price' => '$200',
                 'description' => 'Smart Phone',
                 'category' => 'Phone',
-                'gallery' => 'https://i.gadgets360cdn.com/products/large/moto-g52-db-709x800-1649827920.jpg'
+                'gallery' => 'https://i.gadgets360cdn.com/products/televisions/large/1548154685_832_panasonic_32-inch-lcd-full-hd-tv-th-l32u20.jpg'
             ],
             [
                 'name' => 'Laptop',
                 'price' => '$2000',
                 'description' => 'Laptop thinkpad',
                 'category' => 'Laptop',
-                'gallery' => 'https://cdn1.smartprix.com/rx-i4U4FAoxX-w1200-h1200/4U4FAoxX.jpg'
+                'gallery' => 'https://4.imimg.com/data4/PM/KH/MY-34794816/lcd-500x500.png'
             ],
             [
                 'name' => 'Utensils',
                 'price' => '$10',
                 'description' => 'Utensils',
                 'category' => 'Cooking',
-                'gallery' => 'https://cdn.pixabay.com/photo/2017/02/15/10/39/salad-2068220__340.jpg'
+                'gallery' => 'https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTFx-2-wTOcfr5at01ojZWduXEm5cZ-sRYPJA&usqp=CAU'
             ]
         ]);
     }
